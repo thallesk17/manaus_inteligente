@@ -3,6 +3,10 @@
     "name": "manaus_inteligente",
     "slug": "manaus_inteligente",
     "version": "1.0.0",
+    "newArchEnabled": true,
+    "reactNative": {
+      "bridgeless": false
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

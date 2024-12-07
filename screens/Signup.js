@@ -217,7 +217,7 @@ const MyTextInput = ({ label, icon, isPassword, hidePassword, setHidePassword, i
             setHidePassword(!hidePassword);
           }}
         >
-          <Ionicons name={hidePassword ? 'md-eye-off' : 'md-eye'} size={30} color={brand} />
+          <Ionicons name={hidePassword ? 'eye-off' : 'eye'} size={30} color={brand} />
         </RightIcon>
       )}
     </View>
